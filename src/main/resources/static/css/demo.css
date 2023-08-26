@@ -1,0 +1,15 @@
+.wrappedDescription {
+	white-space: nowrap;
+	text-overflow:ellipsis;
+	overflow: hidden;
+	max-width:19px;
+}
+
+.highlight{
+    background-color: red
+}
+
+.loginIcon {
+	width: 1px;
+	height: 1px;
+}
